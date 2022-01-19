@@ -1,0 +1,7 @@
+D:\IDB CORE\C#\p\Generic(Animal)\Generic(Animal)\bin\Debug\Generic(Animal).exe.config
+D:\IDB CORE\C#\p\Generic(Animal)\Generic(Animal)\bin\Debug\Generic(Animal).exe
+D:\IDB CORE\C#\p\Generic(Animal)\Generic(Animal)\bin\Debug\Generic(Animal).pdb
+D:\IDB CORE\C#\p\Generic(Animal)\Generic(Animal)\obj\Debug\Generic(Animal).csprojAssemblyReference.cache
+D:\IDB CORE\C#\p\Generic(Animal)\Generic(Animal)\obj\Debug\Generic(Animal).csproj.CoreCompileInputs.cache
+D:\IDB CORE\C#\p\Generic(Animal)\Generic(Animal)\obj\Debug\Generic(Animal).exe
+D:\IDB CORE\C#\p\Generic(Animal)\Generic(Animal)\obj\Debug\Generic(Animal).pdb
